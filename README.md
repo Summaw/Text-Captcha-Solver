@@ -5,6 +5,6 @@ Image to text
 
 ![image](https://user-images.githubusercontent.com/98126132/208988308-28f4522a-115b-4798-8900-c66ac20d6b44.png)
 
-Download the frozen_inference_graph.pb here:
+Download the frozen_inference_graph.pb here (File was too big to upload to github :( ):
 
 ```https://anonfiles.com/Q1Z1McN7y5/frozen_inference_graph_pb```
