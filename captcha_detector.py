@@ -5,7 +5,8 @@ import sys
 
 # run on CPU, to run on GPU comment this line or write '0'
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from distutils.version import StrictVersion
 from collections import defaultdict
 
@@ -118,5 +119,5 @@ def Captcha_detection(image, average_distance_error=3):
             captcha_string = ""
             for captcha_letter in range(len(captcha_array_filtered)):
                 captcha_string += captcha_array_filtered[captcha_letter][0]
-
+            print('Solved Captcha:'+ captcha_string)
             return captcha_string
