@@ -12,7 +12,8 @@ Solved Image:
 There is a flask server example in the example folder!
 Response Photo:
 
-![image](https://user-images.githubusercontent.com/98126132/209489864-e9b30443-cc11-40f7-9924-f075db7e03f6.png)
+![image](https://user-images.githubusercontent.com/98126132/209490026-6ec110ab-2831-4b1b-b449-b1a809193b25.png)
+
 
 
 Download the frozen_inference_graph.pb here (File was too big to upload to github :( ):
