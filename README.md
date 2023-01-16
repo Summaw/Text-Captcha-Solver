@@ -3,6 +3,8 @@ Image to text
 
 **[+] If you run into any problems, please open a issue and I will try to reply with a solution for you. Enjoy please drop a star!**
 
+**The model I trained was for wish.com | You will need to train another model for any other site.**
+
 ![image](https://user-images.githubusercontent.com/98126132/208988308-28f4522a-115b-4798-8900-c66ac20d6b44.png)
 
 There is a flask server example in the example folder!
