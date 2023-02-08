@@ -16,4 +16,4 @@ Response Photo:
 
 Download the frozen_inference_graph.pb here (File was too big to upload to github :( ):
 
-```https://anonfiles.com/Q1Z1McN7y5/frozen_inference_graph_pb```
+```https://anonfiles.com/z8RdIbW6y8/frozen_inference_graph_pb```
