@@ -1,6 +1,6 @@
 # Text-Captcha-Solver
-- Image to text
-- If you run into any problems, please open a issue and I will try to reply with a solution for you. Enjoy please drop a star!**
+- **Image to text**
+- **If you run into any problems, please open a issue and I will try to reply with a solution for you. Enjoy please drop a star!**
 
 # Updates/Additions 11/7/23:
 - Updated server.py example to use requests to downlaod image rather then selenium.
